@@ -1,5 +1,4 @@
 
-import './App.css';
 import Navbar from './Components.js/Navbar';
 import Home from './Components.js/Home';
 
